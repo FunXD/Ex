@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dkdkdkdkdkdkdk
+=======
+444
+>>>>>>> ex-3
